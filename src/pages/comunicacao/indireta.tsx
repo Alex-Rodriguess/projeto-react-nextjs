@@ -7,7 +7,7 @@ export default function PaginaIndireta() {
             <div className="gap-5 text-white">
             <Contador />
             <Contador />
-            
+            <Contador />
             </div>
             
         </div>
