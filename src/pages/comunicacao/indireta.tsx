@@ -10,8 +10,6 @@ export default function PaginaIndireta() {
             <Contador />
             <h1>Total de contagens</h1>
             </div>
-            
-            
         </div>
     )
 }
