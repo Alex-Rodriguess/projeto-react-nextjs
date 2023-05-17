@@ -13,7 +13,7 @@ export default function ImagemAleatoria() {
     function renderizarBotao(valor: string) {
         return (
             <button className={`
-                bg-blue-500 px-4 py-2 rounded-md
+                bg-blue-500 px-5 py-3 rounded-md
             `} onClick={() => {
                 alterarPesquisa(valor)
                 console.log(valor)
